@@ -1,4 +1,4 @@
-# Week 11 - Complete
+# Week 11
 
 - ML Review
 - Intro to Tensors
